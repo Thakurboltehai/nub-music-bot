@@ -13,10 +13,10 @@ from fonts import *
 API_ID = os.getenv("API_ID",)
 API_HASH = os.getenv("API_HASH", "")
 STRING_SESSION = os.getenv("STRING_SESSION", "")
-GROUP = os.getenv("GROUP", "nub_coder_s")
-CHANNEL = os.getenv("CHANNEL", "nub_coders_updates")
+GROUP = os.getenv("GROUP", "https://t.me/+cM8wQDsqh3c5Nzll")
+CHANNEL = os.getenv("CHANNEL", "https://t.me/+cM8wQDsqh3c5Nzll")
 BOT_TOKEN = os.getenv("BOT_TOKEN", "")
-OWNER_ID = os.getenv("OWNER_ID", 6076474757)
+OWNER_ID = os.getenv("OWNER_ID", 7688993208)
 LOGGER_ID = os.getenv("LOGGER_ID", None)
 mongodb = os.getenv("MONGODB_URI", "mongodb+srv://nubcoders:nubcoders@music.8rxlsum.mongodb.net/?retryWrites=true&w=majority&appName=music")
 # Working directory
